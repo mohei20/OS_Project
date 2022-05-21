@@ -1,0 +1,15 @@
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS_Project\bin\Debug\net6.0\OS_Project.exe
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS_Project\bin\Debug\net6.0\OS_Project.deps.json
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS_Project\bin\Debug\net6.0\OS_Project.runtimeconfig.json
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS_Project\bin\Debug\net6.0\OS_Project.dll
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS_Project\bin\Debug\net6.0\OS_Project.pdb
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS_Project\obj\Debug\net6.0\OS_Project.csproj.AssemblyReference.cache
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS_Project\obj\Debug\net6.0\OS_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS_Project\obj\Debug\net6.0\OS_Project.AssemblyInfoInputs.cache
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS_Project\obj\Debug\net6.0\OS_Project.AssemblyInfo.cs
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS_Project\obj\Debug\net6.0\OS_Project.csproj.CoreCompileInputs.cache
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS_Project\obj\Debug\net6.0\OS_Project.dll
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS_Project\obj\Debug\net6.0\refint\OS_Project.dll
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS_Project\obj\Debug\net6.0\OS_Project.pdb
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS_Project\obj\Debug\net6.0\OS_Project.genruntimeconfig.cache
+C:\Users\M bluelap\OneDrive - Assuit University - Staff\Desktop\OS_Project\obj\Debug\net6.0\ref\OS_Project.dll
